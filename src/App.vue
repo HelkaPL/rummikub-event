@@ -160,4 +160,19 @@ export default {
   max-height: 50%;
   align-self: center;
 }
+/* @media (min-width: 640px)  { 
+  .labels > p {
+  font-size: 24px;
+}
+} */
+@media (max-width: 640px) and (max-width: 1200px) {
+  .labels > p {
+  font-size: 24px;
+}
+.tiles > .tile {
+  width: 70px;
+  height: 94px;
+  font-size: 48px;
+}
+}
 </style>
