@@ -122,7 +122,7 @@ export default {
   width: 140px;
   aspect-ratio: 0.7446808510638298;
   height: 188px;
-  font-size: clamp(1.5rem, 0.656rem + 4.5vw, 6rem);
+  font-size: 96px;
   font-weight: 700;
   background-image: url('@/assets/tile.png');
   background-position: center;
